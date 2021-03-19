@@ -8,6 +8,7 @@ to explore different roles in the software industry, pivoting towards QA and
 with an emphasis on Python and Open Source technologies.
 
 [Diego Moreda's Twitter account](https://twitter.com/diegoplan9)
+
 [Diego Moreda's GitHub account](https://github.com/diego-plan9)
 
 ## Abstract
